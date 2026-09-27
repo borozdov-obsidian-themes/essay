@@ -1,0 +1,17 @@
+{
+  "name": "borozdov-essay",
+  "private": true,
+  "description": "An editorial journal on warm cotton: italic serif headlines in ink navy, electric cobalt for what you act on and lavender mist for labels.",
+  "license": "MIT",
+  "scripts": {
+    "fonts": "python3 scripts/embed-fonts.py",
+    "lint": "stylelint theme.css",
+    "build": "node scripts/build.mjs",
+    "screenshots": "python3 scripts/screenshots.py"
+  },
+  "devDependencies": {
+    "lucide-static": "^1.47.0",
+    "stylelint": "^17.0.0",
+    "stylelint-config-obsidianmd": "^0.1.0"
+  }
+}
