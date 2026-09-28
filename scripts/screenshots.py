@@ -159,7 +159,7 @@ navy-tinted lift, and the title in the type's colour.</p></div>
 {callout("success", "check", "Done", "Green for what is finished.")}
 {callout("warning", "triangle-alert", "Heads up", "Amber for what needs a look, red for real trouble.")}
 <div class="el-blockquote"><blockquote dir="auto"><p>Listen first, then measure.</p></blockquote></div>
-{table(["Face", "Role"], ["Crimson italic", "Title, the two largest headings, quotes"], ["Sans 400", "Body text"], ["Sans 700", "Eyebrows and bold"])}
+{table(["Face", "Role"], ["Essay Serif italic", "Title, the two largest headings, quotes"], ["Sans 400", "Body text"], ["Sans 700", "Eyebrows and bold"])}
 """
 
 NOTE_RU = f"""

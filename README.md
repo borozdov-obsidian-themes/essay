@@ -10,8 +10,8 @@ headlines in ink navy, electric cobalt for what you act on and lavender mist for
 
 ## Principles
 
-- **The italic cut is the voice.** Crimson Italic, a literary serif, for the title, the two
-  largest headings and pull quotes, set in ink navy with tight leading; the platform's
+- **The italic cut is the voice.** Essay Serif Italic, a literary serif, for the title, the
+  two largest headings and pull quotes, set in ink navy with tight leading; the platform's
   own sans for everything else.
 - **Two blues.** Ink navy carries the headings, the main button and the open file —
   editorial weight. Electric cobalt is kept for links, a checked task and a toggle — the
@@ -45,10 +45,11 @@ Settings → Appearance → Themes.
 
 ## Font
 
-Crimson Italic (© 2010 Sebastian Kosch, Reserved Font Name "Crimson") is embedded in
-`theme.css` as base64 WOFF2 under the SIL Open Font License 1.1 — see
-[`fonts/OFL.txt`](fonts/OFL.txt). One style, Latin and Cyrillic, for the title, the two
-largest headings and pull quotes only.
+Essay Serif is embedded in `theme.css` as base64 WOFF2 under the SIL Open Font License
+1.1 — see [`fonts/OFL.txt`](fonts/OFL.txt). It is a Latin and Cyrillic subset of Crimson
+Italic (© 2010 Sebastian Kosch), renamed because a modified copy may not use the original's
+Reserved Font Name. One style, for the title, the two largest headings and pull quotes
+only.
 
 ## License
 
@@ -56,8 +57,8 @@ MIT — see [LICENSE](LICENSE).
 
 ---
 
-**По-русски.** Тема из коллекции Borozdov. Два лика: светлый «Хлопок» — редакционный
-журнал на тёплом хлопке, и тёмный «Индиго» — тот же журнал в тёмно-синей читальне.
-Курсивные заголовки с засечками (Crimson) чернильно-синего цвета, электрический кобальт для
-того, что вы делаете, и лавандовая дымка для ярлыков. Устанавливается из каталога:
-Настройки → Оформление → Темы → Настроить → Borozdov Essay → Установить и применить.
+**По-русски.** Тема из коллекции Borozdov. Два лика: светлый «Хлопок» — редакционный журнал
+на тёплом хлопке, и тёмный «Индиго» — тот же журнал в тёмно-синей читальне. Курсивные
+заголовки с засечками (Essay Serif) чернильно-синего цвета, электрический кобальт для того,
+что вы делаете, и лавандовая дымка для ярлыков. Устанавливается из каталога: Настройки →
+Оформление → Темы → Настроить → Borozdov Essay → Установить и применить.

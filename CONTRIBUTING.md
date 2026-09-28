@@ -26,9 +26,9 @@ House rules:
 - Colors come from the palette in section 1 of `theme.css`; nothing else holds a color
   literal.
 - Warm cotton canvas, ink navy for headings, the main button and the open file, electric
-  cobalt for links and fills, lavender mist for tags. The only embedded font is Crimson
-  Italic (the title and the two largest headings): `fonts/*.woff2` are written into
-  `theme.css` by `npm run fonts`.
+  cobalt for links and fills, lavender mist for tags. The only embedded font is Essay
+  Serif Italic, a renamed subset of Crimson Italic (the title and the two largest
+  headings): `fonts/*.woff2` are written into `theme.css` by `npm run fonts`.
 - The release ships `dist/theme.css` from `npm run build`: the same file without
   comments. The build fails on any lint problem.
 

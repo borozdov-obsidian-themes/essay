@@ -1,3 +1,6 @@
+Essay Serif is a modified version of Crimson Italic: a Latin and Cyrillic subset, renamed
+because the original carries a Reserved Font Name.
+
 Crimson, Copyright (c) 2010 Sebastian Kosch (sebastian@aldusleaf.org), with Reserved Font Name "Crimson".
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
