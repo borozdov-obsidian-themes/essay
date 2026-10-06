@@ -35,10 +35,14 @@ headlines in ink navy, electric cobalt for what you act on and lavender mist for
 
 ## Installation
 
-**From the community directory:** Settings → Appearance → Themes → Manage, search for
-**Borozdov Essay**, then **Install and use**.
+**From the community directory, as a variant:** this theme ships inside **Borozdov
+Ember**. Install Borozdov Ember under Settings → Appearance → Themes → Manage, then the
+[Style Settings](https://github.com/mgmeyers/obsidian-style-settings) plugin, and choose
+**Essay** under Style Settings → Borozdov Ember → Variant. The variant brings this theme's
+palette, type and corners; its own layout, and its embedded font if it has one, come with
+the full theme below.
 
-**By hand:** download `manifest.json` and `theme.css` from the
+**The full theme, by hand:** download `manifest.json` and `theme.css` from the
 [latest release](https://github.com/borozdov-obsidian-themes/essay/releases/latest) into
 `<vault>/.obsidian/themes/Borozdov Essay/`, then choose Borozdov Essay under
 Settings → Appearance → Themes.
@@ -60,5 +64,4 @@ MIT — see [LICENSE](LICENSE).
 **По-русски.** Тема из коллекции Borozdov. Два лика: светлый «Хлопок» — редакционный журнал
 на тёплом хлопке, и тёмный «Индиго» — тот же журнал в тёмно-синей читальне. Курсивные
 заголовки с засечками (Essay Serif) чернильно-синего цвета, электрический кобальт для того,
-что вы делаете, и лавандовая дымка для ярлыков. Устанавливается из каталога: Настройки →
-Оформление → Темы → Настроить → Borozdov Essay → Установить и применить.
+что вы делаете, и лавандовая дымка для ярлыков. В каталоге тема живёт вариантом Borozdov Ember: установите Borozdov Ember и плагин Style Settings, затем выберите Essay в Style Settings → Borozdov Ember → Variant. Целиком, со своей вёрсткой, тема ставится вручную из последнего релиза репозитория.
